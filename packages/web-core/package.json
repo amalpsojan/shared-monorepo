@@ -1,0 +1,11 @@
+{
+  "name": "@shared-packages/web-core",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+   
+  },
+  "peerDependencies": {
+    "react": "*"
+  }
+}

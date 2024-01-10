@@ -1,0 +1,10 @@
+{
+  "name": "@shared-packages/mobile-theme",
+  "version": "0.0.1",
+  "private":true,
+  "scripts": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}

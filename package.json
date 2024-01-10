@@ -1,0 +1,15 @@
+{
+  "name": "awsome-shared-packages",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+   
+  },
+  "workspaces": {
+    "packages": [
+      "apps/*",
+      "packages/*"
+    ]
+  },
+  "packageManager": "yarn@1.22.19"
+}

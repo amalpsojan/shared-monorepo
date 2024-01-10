@@ -1,0 +1,9 @@
+{
+  "name": "@shared-packages/core",
+  "version": "0.0.1",
+  "private":true,
+  "scripts": {},
+  "peerDependencies": {
+    "react": "*"
+  }
+}

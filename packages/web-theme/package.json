@@ -1,0 +1,14 @@
+{
+  "name": "@shared-packages/web-theme",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+   
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "dependencies": {
+    "@shared-packages/web-core":"0.0.1"
+  }
+}

@@ -1,6 +1,6 @@
 import { createContext, useMemo } from "react";
 import { LightColors, DarkColors } from "../Colors";
-import { useColorScheme } from "@shared-packages/web-core";
+import { useColorScheme } from "@amalpsojan/web-core";
 
 const initialState = {
   dark: false,

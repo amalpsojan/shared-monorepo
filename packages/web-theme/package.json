@@ -9,6 +9,6 @@
     "react": "*"
   },
   "dependencies": {
-    "@shared-packages/web-core":"0.0.1"
+    "@amalpsojan/web-core":"0.0.1"
   }
 }

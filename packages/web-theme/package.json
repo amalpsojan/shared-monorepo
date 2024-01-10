@@ -1,7 +1,7 @@
 {
-  "name": "@shared-packages/web-theme",
+  "name": "@amalpsojan/web-theme",
   "version": "0.0.1",
-  "main": "index.js",
+  "private":false,
   "scripts": {
    
   },

@@ -1,7 +1,7 @@
 {
-  "name": "@shared-packages/web-core",
+  "name": "@amalpsojan/web-core",
   "version": "0.0.1",
-  "main": "index.js",
+  "private":false,
   "scripts": {
    
   },

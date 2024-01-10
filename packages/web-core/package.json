@@ -1,10 +1,8 @@
 {
   "name": "@amalpsojan/web-core",
-  "version": "0.0.1",
-  "private":false,
-  "scripts": {
-   
-  },
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {},
   "peerDependencies": {
     "react": "*"
   }

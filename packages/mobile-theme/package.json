@@ -1,7 +1,7 @@
 {
   "name": "@amalpsojan/mobile-theme",
-  "version": "0.0.1",
-  "private":false,
+  "version": "1.0.0",
+  "private": false,
   "scripts": {},
   "peerDependencies": {
     "react": "*",

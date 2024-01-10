@@ -1,14 +1,12 @@
 {
   "name": "@amalpsojan/web-theme",
-  "version": "0.0.1",
-  "private":false,
-  "scripts": {
-   
-  },
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {},
   "peerDependencies": {
     "react": "*"
   },
   "dependencies": {
-    "@amalpsojan/web-core":"0.0.1"
+    "@amalpsojan/web-core": "1.0.0"
   }
 }
